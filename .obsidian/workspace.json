@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "970bb9ee7db4f02c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed727b13409fdb0d",
+        "type": "tabs",
+        "dimension": 49.71655328798186,
+        "children": [
+          {
+            "id": "777911986ee0ce05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yani sayo - Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19b0f94e26dc5bfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tuwi Win - Yani Sayo - Qonjo Sayomin/01 - Spelling & Pronunciation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f78ede9d9dab67d3",
+        "type": "tabs",
+        "dimension": 50.28344671201814,
+        "children": [
+          {
+            "id": "cf05afd7cf2c50ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon-g1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baf3469a32382025",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63b5c073a80a9893",
+    "type": "split",
+    "children": [
+      {
+        "id": "b27900d4ccaabef1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7952402e284133ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "360dff73160fc274",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3068bb661c909d6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27efa018e03187d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f54bb39ee0151077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a5b4fb96548a493",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tuwi Win - Yani Sayo - Qonjo Sayomin/01 - Spelling & Pronunciation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a2a9f270361148a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tuwi Win - Yani Sayo - Qonjo Sayomin/01 - Spelling & Pronunciation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7687420b7754314b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a091e09fdaf29688",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tuwi Win - Yani Sayo - Qonjo Sayomin/01 - Spelling & Pronunciation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "19b0f94e26dc5bfc",
+  "lastOpenFiles": [
+    "Tuwi Win - Yani Sayo - Qonjo Sayomin/pdf/01 - Spelling & Pronunciation.pdf",
+    "Tuwi Win - Yani Sayo - Qonjo Sayomin/pdf",
+    "Tuwi Win - Yani Sayo - Qonjo Sayomin/New folder",
+    "Tuwi Win - Yani Sayo - Qonjo Sayomin/01 - Spelling & Pronunciation.md",
+    "lexicon-g1.md",
+    "Yani sayo - Introduction.md",
+    "Kuxi X - Yani Sayo.md",
+    "Tuwi Win - Yani Sayo - Qonjo Sayomin"
+  ]
+}
