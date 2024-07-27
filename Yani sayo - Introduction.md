@@ -91,3 +91,4 @@ When they are not at the front of a word, \<yi> and \<wu> syllables will often a
 
 Because of this rule, it is my intention to avoid minimal pairs where \<yi> and \<li> would distinguish words, as well as where \<wu> and \<xu> would distinguish words.
 
+[02 - Basic Sentences](Tuwi%20Win%20-%20Yani%20Sayo%20-%20Qonjo%20Sayomin/02%20-%20Basic%20Sentences.md)

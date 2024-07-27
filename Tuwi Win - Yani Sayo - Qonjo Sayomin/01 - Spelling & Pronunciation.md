@@ -13,13 +13,14 @@ In addition to this, in either script you may use the letter \<h> instead of \<x
 + **Vowels in Yani sayo**
 	+ a, e, i, o, u
 
-These vowels are pronounced more closely to how they are pronounced in Spanish or Japanese than they are to strict Adinjo or English pronunciations. It is important to note that all of these vowels are strictly **monopthongs**, and none of them have an inherent off-glide as some English vowels do. We are offering our best approximation of the vowels as they are used in English
+These vowels are pronounced more closely to how they are pronounced in Spanish or Japanese than they are to strict Adinjo or English pronunciations. It is important to note that all of these vowels are strictly **monophthongs**, and none of them have an inherent off-glide as some English vowels do. We are offering our best approximation of the vowels as they are used in English
 
 - **a** sounds like the “a” in the word “car” or (in some dialects of English) the “o” in “pot,” or the “a” in “bath.”
 - **e** sounds like the “a” in the word “bate,” though it has a sharper closure without an off-glide.
 - **i** sounds like the “ee” in the word “fee,” but it does not have an off-glide like the English sound does when another letter follows it.
 - **o** sounds like the “o” in the word “phone.”
 - **u** sounds like the “oo” in “coo” or “moon,” or the “ou” in “you.”
+
 
 > [!NOTE] International Phonetic Alphabet
 > The *International Phonetic Alphabet*, or IPA, is a common way of showing how words and letters are pronounced. It is by design that the Latin spelling of Yani sayo reflects the IPA with the exception of preferring the letter \<y> to represent the IPA /j/ sound.

@@ -6,7 +6,6 @@
       {
         "id": "ed727b13409fdb0d",
         "type": "tabs",
-        "dimension": 49.71655328798186,
         "children": [
           {
             "id": "777911986ee0ce05",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yani sayo - Introduction.md",
+                "file": "Tuwi Win - Yani Sayo - Qonjo Sayomin/01 - Spelling & Pronunciation.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,22 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tuwi Win - Yani Sayo - Qonjo Sayomin/01 - Spelling & Pronunciation.md",
+                "file": "Tuwi Win - Yani Sayo - Qonjo Sayomin/02 - Basic Sentences.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f78ede9d9dab67d3",
-        "type": "tabs",
-        "dimension": 50.28344671201814,
-        "children": [
+          },
           {
-            "id": "cf05afd7cf2c50ff",
+            "id": "e59a00ad4285d2d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,16 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "baf3469a32382025",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "27efa018e03187d1",
@@ -126,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tuwi Win - Yani Sayo - Qonjo Sayomin/01 - Spelling & Pronunciation.md",
+                "file": "Tuwi Win - Yani Sayo - Qonjo Sayomin/02 - Basic Sentences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tuwi Win - Yani Sayo - Qonjo Sayomin/01 - Spelling & Pronunciation.md",
+                "file": "Tuwi Win - Yani Sayo - Qonjo Sayomin/02 - Basic Sentences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tuwi Win - Yani Sayo - Qonjo Sayomin/01 - Spelling & Pronunciation.md"
+                "file": "Tuwi Win - Yani Sayo - Qonjo Sayomin/02 - Basic Sentences.md"
               }
             }
           }
@@ -189,13 +173,15 @@
   },
   "active": "19b0f94e26dc5bfc",
   "lastOpenFiles": [
+    "Tuwi Win - Yani Sayo - Qonjo Sayomin/pdf/02 - Basic Sentences.pdf",
+    "Tuwi Win - Yani Sayo - Qonjo Sayomin/01 - Spelling & Pronunciation.md",
+    "Yani sayo - Introduction.md",
+    "lexicon-g1.md",
+    "Tuwi Win - Yani Sayo - Qonjo Sayomin/02 - Basic Sentences.md",
+    "Kuxi X - Yani Sayo.md",
     "Tuwi Win - Yani Sayo - Qonjo Sayomin/pdf/01 - Spelling & Pronunciation.pdf",
     "Tuwi Win - Yani Sayo - Qonjo Sayomin/pdf",
     "Tuwi Win - Yani Sayo - Qonjo Sayomin/New folder",
-    "Tuwi Win - Yani Sayo - Qonjo Sayomin/01 - Spelling & Pronunciation.md",
-    "lexicon-g1.md",
-    "Yani sayo - Introduction.md",
-    "Kuxi X - Yani Sayo.md",
     "Tuwi Win - Yani Sayo - Qonjo Sayomin"
   ]
 }
