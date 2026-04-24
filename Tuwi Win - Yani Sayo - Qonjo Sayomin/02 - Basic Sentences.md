@@ -8,7 +8,7 @@ In this lesson we will look at how to form basic sentences in *yani sayo.* We wi
 | **ti**     | ci, cinu, kuci, kucinu       | you, you all, your, yours                                        | sina      |
 | **xisi**   | ji, fi, xi, kuji, kufi, kuxi | he, she, it, they, his, hers, its, their, theirs                 | ona       |
 | **li**     | –                            | *precedes the verb phrase*                                       | li        |
-| **sayi**   | sayomin, curito, dér         | good, clear, great, to make better, to improve, to repair        | pona      |
+| **sayi**   | sayomin, churito, dér        | good, clear, great, to make better, to improve, to repair        | pona      |
 | **wali**   | walu, horkel, rank           | bad, evil, perverse, wrong, to make worse, to break              | ike       |
 | **tulit**  | churito, dul                 | big, great, grand, important, elder, to grow                     | suli      |
 | **motli**  | mor, tal, dun                | small, short, few, trivial, young, younger, to shrink, to reduce | lili      |
